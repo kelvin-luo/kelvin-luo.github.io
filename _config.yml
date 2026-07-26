@@ -19,12 +19,12 @@ comment:
 
 # Social
 social:
-    weibo: null 
-    github: autumnswing
-    # zhihu: panpanleopard
-    # juejin: xxx
-    jianshu: null
-    # twitter: 
+    weibo: https://github.com/kelvin-luo 
+    github: https://github.com/kelvin-luo
+    zhihu: https://github.com/kelvin-luo
+    juejin: https://github.com/kelvin-luo
+    jianshu: https://github.com/kelvin-luo
+    twitter: https://github.com/kelvin-luo
     mail: leoking02@foxmail.com
 
 
