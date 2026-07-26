@@ -1,12 +1,12 @@
 # Basic
-title: rovinder
+title: kelvin-luo
 subtitle: 个人站
-description: autumnswing
+description: 研究方向为计算机视觉、机器学习、深度学习、人工智能等。
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: kelvin-luo
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://autumnswing.github.io"
+avatarDesc: 计算机视觉、机器学习、深度学习、人工智能等。
+url: "http://kelvin-luo.github.io"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
