@@ -40,7 +40,7 @@
 - 支持实时调整线宽、颜色
 - 按 Ctrl+Z 撤销最后操作
 
-![捕获](./images/2026-07-26-极简图像编辑工具 - OrchidImgEditer功能介绍.assets/捕获.PNG)
+![捕获](/images/2026-07-26-极简图像编辑工具 - OrchidImgEditer功能介绍.assets/捕获.PNG)
 
 
 
@@ -65,7 +65,7 @@
 - 表单数据录入
 - 多语言文档扫描
 
-![捕获2](./images/2026-07-26-极简图像编辑工具 - OrchidImgEditer功能介绍.assets/捕获2.PNG)
+![捕获2](/images/2026-07-26-极简图像编辑工具 - OrchidImgEditer功能介绍.assets/捕获2.PNG)
 
 
 
