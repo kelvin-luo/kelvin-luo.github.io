@@ -52,6 +52,48 @@
           </li>
           {% endif %}
 
+<!-- gitee -->
+       {% if site.social.gitee %}
+          <!-- gitee -->
+          <li class="navigation__item_social">
+            <a href="http://gitee.com/{{site.social.gitee}}" title="@{{site.social.weibo}} 的微博" target="_blank">
+              <div class="footer-social-icon" style="background:url(/images/gitee.png);"></div>
+            </a>
+          </li>
+          {% endif %}
+
+
+       {% if site.social.csdn %}
+          <!-- csdn -->
+          <li class="navigation__item_social">
+            <a href="http://blog.csdn.net/{{site.social.csdn}}" title="@{{site.social.weibo}} 的微博" target="_blank">
+              <div class="footer-social-icon" style="background:url(/images/csdn.png);"></div>
+            </a>
+          </li>
+          {% endif %}
+
+
+          <!-- space.bilibili.com -->
+       {% if site.social.bilibili %}
+          <!-- csdn -->
+          <li class="navigation__item_social">
+            <a href="space.bilibili.com/{{site.social.bilibili}}" title="@{{site.social.bilibili}} 的微博" target="_blank">
+              <div class="footer-social-icon" style="background:url(/images/bilibili.png);"></div>
+            </a>
+          </li>
+          {% endif %}
+
+
+          <!-- douyin -->
+       <!-- {% if site.social.bilibili %} -->
+          <!-- csdn -->
+          <!-- <li class="navigation__item_social">
+            <a href="space.bilibili.com/{{site.social.bilibili}}" title="@{{site.social.bilibili}} 的微博" target="_blank">
+              <div class="footer-social-icon" style="background:url(/images/bilibili.png);"></div>
+            </a>
+          </li> -->
+          <!-- {% endif %} -->   
+
           
           {% if site.social.twitter %}
           <!-- Twitter -->
@@ -71,6 +113,9 @@
             </a>
           </li>
           {% endif %}
+
+
+ 
           
           <!-- RSS -->
           <li class="navigation__item_social">
