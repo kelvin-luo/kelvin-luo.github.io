@@ -83,4 +83,9 @@ gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
 
+# Ensure auto-update manifest is published to GitHub Pages
+include:
+  - version.json
+  - assets/version.json
+
 
